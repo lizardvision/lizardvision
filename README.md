@@ -62,7 +62,7 @@ We aim to deliver developer-friendly, open-source libraries that make creating v
 **Lizard Vision** is created and maintained by:  
 
 ### ✨ Amin Mirzaei  
-- 📍 Location: Helsinki, Finland
+- 📍 Location: Iran , Tehran
 - 📧 Email: `aminmirzaei.og@gmail.com`  
 - 🌍 GitHub: [@AminMirzaeiOne](https://github.com/AminMirzaeiOne)
 
